@@ -1,1 +1,1 @@
-# LogisticRegression-using-SMOTE
+# LogisticRegression using SMOTE
